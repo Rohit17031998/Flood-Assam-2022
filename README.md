@@ -11,6 +11,17 @@ In mid-2022, severe monsoon rainfall triggered catastrophic flooding across the 
 This project utilizes dual-polarization **Sentinel-1 SAR (C-band)** change detection to identify inundated areas, masks out permanent surface water and topographic shadows, and calculates the direct impact on **cropland** and **urban/built-up** areas. The results are presented via a synchronized 4-panel interactive Earth Engine dashboard.
 
 ---
+## 🔗 Live Earth Engine Script
+
+Access and run the complete interactive script directly in the Earth Engine Code Editor:
+👉 **[Open Script in Google Earth Engine](https://code.earthengine.google.com/c1c13c7934b3c0ae25d5ba79379e7ca2)**
+
+---
+
+## 📸 Visualization Preview
+
+![Assam Flood 2022 4-Panel Visualization](assets/dashboard_preview.png)
+*Figure: 4-panel synchronized dashboard showing target zones, radar inundation extent, affected cropland, and affected urban areas.*
 
 ## 🛰️ Datasets Used
 

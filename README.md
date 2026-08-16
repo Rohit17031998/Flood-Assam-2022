@@ -20,7 +20,7 @@ Access and run the complete interactive script directly in the Earth Engine Code
 
 ## 📸 Visualization Preview
 
-![Assam Flood 2022 4-Panel Visualization](assets/dashboard_preview.png)
+![Assam Flood 2022 4-Panel Visualization](Images/dashboard_preview.png)
 *Figure: 4-panel synchronized dashboard showing target zones, radar inundation extent, affected cropland, and affected urban areas.*
 
 ## 🛰️ Datasets Used
